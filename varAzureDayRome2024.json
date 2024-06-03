@@ -1,0 +1,115 @@
+{
+    "eventNameShort": "AzureDayRome2024",
+    "sessionizeEndPoint" : "https://sessionize.com/api/v2/dejrmecm/view/Sessions",
+    "votingEndPoint" : "https://vote.dotnetdev.it/vote/dejrmecm",
+    "repoPath": "../AzureDay2024Rome",
+    "sessionizeBannerFolderName": "SessionizeBanner",
+    "sessionFolderName": "session",
+    "genericBannerFoldername": "banners",
+    "emptyBannerPath": "",
+    "emptyVotingBannerPath": "",
+    "allSponsorBannerPath": "otherBanner/AllBanner.png",
+    "audioStreamyardFilePath": "audio/AzureDayMarko.mp3",
+    "audioYoutubeFilePath": "audio/ytaudio.mp3",
+    "audioYoutubeFilePathForce": "audio/ytaudio.mp3",
+    "roomNamePrefixWrite": "YT_",
+    "roomNamePrefixRead": "YT_",
+    "youTubeCategory":"22",
+    "youTubeVisibility": "private",
+    "csvFullFilePath": "./RepoSetup/AzureDayRome2024.csv",
+    "videoFinalPath":"/Volumes/Extreme Pro/video/community/azureday/rome2024/def",
+    "venv":true,
+    "pyname":"python3",
+    "Room":[
+        {
+            "SessionizeRoomName": "Room 1 (Rome)",
+            "RepoRoomName": "room1"
+        },
+        {
+            "SessionizeRoomName": "Room 2 (Rome)",
+            "RepoRoomName": "room2"
+        },
+        {
+            "SessionizeRoomName": "Room 3 (Remote)",
+            "RepoRoomName": "room3"
+        }
+
+    ],
+    "Sponsor":
+    {
+        "Platinum":[
+            {
+                "Name": "Microsoft",
+                "LogoPath": "",
+                "Url": "https://www.microsoft.com/it-it",
+                "Banners":[]
+            },
+            {
+                "Name": "Avanade",
+                "LogoPath": "",
+                "Url": "https://www.avanade.com/it-it",
+                "Banners":[
+                    "Sponsor/Platinum/Avanade/Banner_06_Avanade2.png",
+                    "Sponsor/Platinum/Avanade/Banner_07_Avanade2.png"
+                ]
+            },
+            {
+                "Name": "Eng",
+                "LogoPath": "",
+                "Url": "https://www.eng.it",
+                "Banners":[
+                    "Sponsor/Platinum/Eng/Slide1.png",
+                    "Sponsor/Platinum/Eng/Slide2.png"
+                ]
+            },
+            {
+                "Name": "SoftwareONE",
+                "LogoPath": "",
+                "Url": "https://www.softwareone.com/it-it",
+                "Banners":[
+                    "Sponsor/Platinum/SoftwareOne/Banner_SoftwareOne1.png",
+                    "Sponsor/Platinum/SoftwareOne/Banner_SoftwareOne2.png"
+                ]
+            }
+        ],
+        "Gold":[
+            {
+                "Name": "Unikey",
+                "LogoPath": "",
+                "Url": "https://www.unikey.it/",
+                "Banners":[
+                    "Sponsor/Gold/Unikey/Banner_09_unikey1.png",
+                    "Sponsor/Gold/Unikey/Banner_10_unikey1.png"
+                ]
+            },
+            {
+                "Name": "Bc Soft",
+                "LogoPath": "",
+                "Url": "https://www.bcsoft.net/",
+                "Banners":[
+                    "Sponsor/Gold/BcSoft/Banner_11_BCSoft.png",
+                    "Sponsor/Gold/BcSoft/Banner_12_BCSoft.png"
+                ]
+            },
+            {
+                "Name": "Blexin",
+                "LogoPath": "",
+                "Url": "https://blexin.com/en/",
+                "Banners":[
+                    "Sponsor/Gold/Blexin/Banner_13_Blexin.png",
+                    "Sponsor/Gold/Blexin/Banner_14_Blexin.png"
+                ]
+            },
+            {
+                "Name": "Krateo",
+                "LogoPath": "",
+                "Url": "https://krateo.io",
+                "Banners":[
+                    "Sponsor/Gold/Krateo/KrateoPlatformOps1.png",
+                    "Sponsor/Gold/Krateo/KrateoPlatformOps2.png"
+                ]
+            }
+        ]
+    }
+
+}

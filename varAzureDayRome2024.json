@@ -6,8 +6,8 @@
     "sessionizeBannerFolderName": "SessionizeBanner",
     "sessionFolderName": "session",
     "genericBannerFoldername": "banners",
-    "emptyBannerPath": "",
-    "emptyVotingBannerPath": "",
+    "emptyBannerPath": "otherBanner/emptyBanner.png",
+    "emptyVotingBannerPath": "otherBanner/emptyBannerVotazione.png",
     "allSponsorBannerPath": "otherBanner/AllBanner.png",
     "audioStreamyardFilePath": "audio/AzureDayMarko.mp3",
     "audioYoutubeFilePath": "audio/ytaudio.mp3",
@@ -90,25 +90,8 @@
                     "Sponsor/Gold/BcSoft/Banner_11_BCSoft.png",
                     "Sponsor/Gold/BcSoft/Banner_12_BCSoft.png"
                 ]
-            },
-            {
-                "Name": "Blexin",
-                "LogoPath": "",
-                "Url": "https://blexin.com/en/",
-                "Banners":[
-                    "Sponsor/Gold/Blexin/Banner_13_Blexin.png",
-                    "Sponsor/Gold/Blexin/Banner_14_Blexin.png"
-                ]
-            },
-            {
-                "Name": "Krateo",
-                "LogoPath": "",
-                "Url": "https://krateo.io",
-                "Banners":[
-                    "Sponsor/Gold/Krateo/KrateoPlatformOps1.png",
-                    "Sponsor/Gold/Krateo/KrateoPlatformOps2.png"
-                ]
             }
+       
         ]
     }
 

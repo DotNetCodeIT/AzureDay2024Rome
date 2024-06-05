@@ -1,9 +1,10 @@
-# Azure AI e ONNX Runtime
+# Using Container Apps for RAG applications
 **Room:** Room 1 (Rome)
 
 **Start Time:** 2024-06-21 14:00
 
-Dal cloud al on-premise e viceversa. Usare la potenza di Azure per creare i nostri modelli di AI e farli girare ovunque, anche offline.
+Container Apps è un servizio SERVELESS che può ospitare anche prodotti di terze parti come QDrant.
+In questa sessione vediamo come implementare una soluzione RAG che ci consente prendere decisioni intelligenti sul documenti specifici.
 ![Banner](room1_14_00.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
 ![Voting Banner](votingBanner.png 'Voting Banner')

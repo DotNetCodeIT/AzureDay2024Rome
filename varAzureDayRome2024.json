@@ -90,6 +90,23 @@
                     "Sponsor/Gold/BcSoft/Banner_11_BCSoft.png",
                     "Sponsor/Gold/BcSoft/Banner_12_BCSoft.png"
                 ]
+            },
+            {
+                "Name": "Lobra",
+                "LogoPath": "",
+                "Url": "https://www.lobrafutura.com/",
+                "Banners":[
+                    "Sponsor/Gold/Lobra/lobrafutura1.png"
+                ]
+            },
+            {
+                "Name": "4wardPRO",
+                "LogoPath": "",
+                "Url": "https://www.4ward.it/",
+                "Banners":[
+                    "Sponsor/Gold/4ward/4ward1.png",
+                    "Sponsor/Gold/4ward/4ward2.png"
+                ]
             }
        
         ]

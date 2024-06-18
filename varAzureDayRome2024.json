@@ -8,7 +8,7 @@
     "genericBannerFoldername": "banners",
     "emptyBannerPath": "otherBanner/emptyBanner.png",
     "emptyVotingBannerPath": "otherBanner/emptyBannerVotazione.png",
-    "allSponsorBannerPath": "otherBanner/AllBanner.png",
+    "allSponsorBannerPath": "otherBanner/Banner_00_Sponsor.png",
     "audioStreamyardFilePath": "audio/AzureDayMarko.mp3",
     "audioYoutubeFilePath": "audio/ytaudio.mp3",
     "audioYoutubeFilePathForce": "audio/ytaudio.mp3",

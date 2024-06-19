@@ -134,7 +134,7 @@ Session start at2024-06-21 14:45
 [**Go to session**](session/room3_14_45/README.md)
 
 
-## Governa per le tue API...anche quelle di GenAI
+## Un avatar con Azure OpenAI Services il next step di ChatGPT?
 **Room:** Room 1 (Rome)
 
 Session start at2024-06-21 15:30
@@ -182,20 +182,12 @@ Session start at2024-06-21 16:30
 [**Go to session**](session/room3_16_30/README.md)
 
 
-## Un avatar con Azure OpenAI Services il next step di ChatGPT?
+## Implementing a Zero Trust model on AKS with the new Istio Service Mesh add-on for Microsoft Azure
 **Room:** Room 1 (Rome)
 
 Session start at2024-06-21 17:15
 
 [**Go to session**](session/room1_17_15/README.md)
-
-
-## Implementing a Zero Trust model on AKS with the new Istio Service Mesh add-on for Microsoft Azure
-**Room:** Room 2 (Rome)
-
-Session start at2024-06-21 17:15
-
-[**Go to session**](session/room2_17_15/README.md)
 
 
 ## Unleashing Extreme Scalability with Azure Functions

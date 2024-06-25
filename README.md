@@ -1,1 +1,29 @@
-Readme
+# Azure Day Rome 2024
+
+
+| Time  | Room        | Speaker                            | Title                                                                                                | Slide link                                | Repo link |
+| ----- | ----------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------- |
+| 09:15 | Rome Room 1 | Mauro Sagratella                   | Keynote                                                                                              | N/A                                        |           |
+| 09:50 | Rome Room 1 | Massimo Bonanni                    | Azure OpenAI vs Document Intelligence: la battaglia dell'estrazione dati!!!!                         | [**Link**](session/room1_09_50/slides.pdf) | [**Link**](https://github.com/massimobonanni/FeedbackExtractor)          |
+| 09:50 | Live Streaming | Marco Minerva                   | Chatta con i tuoi dati privati usando Azure e Kernel Memory                                          | [**Link**](session/room3_09_50/slides.pdf) |           |
+| 10:30 | Rome Room 1 | Mario Cuomo                        | Copilot for Security - l'unico copilot per governarle tutte (le genAI)                               | N/A |           |
+| 10:30 | Live Streaming | Cristian Civera                 | Frontdoor: il gateway per tutto                                                                      | [**Link**](session/room3_10_30/slides.pdf) |           |
+| 11:30 | Rome Room 1 | Lorenzo Barbieri                   | AI for Cloud Developers: GitHub Copilot and Azure Copilot to the Rescue                              | [**Link**](https://www.linkedin.com/feed/update/urn:li:activity:7210891939238342658/) |           |
+| 11:30 | Rome Room 2 | Edoardo Zonca e Gianluca De Rossi  | AI for operations                                                                                    | [**Link**](session/room2_11_30/slides.pdf) |           |
+| 11:30 | Live Streaming | Tommaso Stocchi                 | Distributed Applications: from local to Azure                                                        | [**Link**](session/room3_11_30/slides.pdf) |           |
+| 12:15 | Rome Room 1 | Stefano Tempesta                   | Build effective copilots with Microsoft Copilot Studio                                               | [**Link**](session/room1_12_15/slides.pdf) |           |
+| 12:15 | Rome Room 2 | Marco Obinu                        | Zero trust networking per le nostre Web Application                                                  | N/A |           |
+| 12:15 | Live Streaming | Massimo Crippa                  | Better API Governance with Azure API Center                                                          | N/A |           |
+| 14:00 | Rome Room 1 | Andrea Tosato                      | Using Container Apps for RAG applications                                                            | [**Link**](session/room1_14_00/slides.pdf) |           |
+| 14:00 | Rome Room 2 | Luca Gabriele Giuliani             | Azure Functions hosted in Container Apps (ACA)                                                       | N/A  |           |
+| 14:45 | Rome Room 1 | Danilo Dominici                    | Data API Builder: scenari di utilizzo                                                                | [**Link**](https://github.com/ddominici/Presentations/blob/main/2024/Azure%20Day%20Roma/Data%20API%20Builder%20AD.pdf) | [**Link**](https://github.com/ddominici/Presentations/tree/main/2024/Azure%20Day%20Roma/Demo)           |
+| 14:45 | Rome Room 2 | Rauno De Pasquale                  | Quale runtime per i miei container su Azure?                                                         | [**Link**](session/room2_14_45/slides.pdf) |           |
+| 14:45 | Live Streaming | Michele Sensalari e Mario Serra | Proteggere ambienti multi-cloud con Microsoft Defender for Cloud e .. Copilot Embedded Experience!   | N/A |           |
+| 15:30 | Rome Room 1 | Alessio Iafrate                    | Un avatar con Azure OpenAI Services il next step di ChatGPT?                                         | [**Link**](session/room1_15_30/slides.pdf) |           |
+| 15:30 | Rome Room 2 | Francesco Molfese                  | Scopri il futuro delle infrastrutture IT: l'ascesa inevitabile dell'Hybrid Cloud con Azure Stack HCI | [**Link**](https://4wrd-my.sharepoint.com/:b:/g/personal/francesco_molfese_4wardpro_it/ETgJXtC6duJKglm3-1tV_kMBWXmEmcOaPo2e4vjCT0-tTQ?e=VNOJcw) |           |
+| 15:30 | Live Streaming | Mauro Bennici                   | Azure AI e ONNX Runtime                                                                              | [**Link**](session/room3_15_30/slides.pdf) |           |
+| 16:30 | Rome Room 1 | Marco Dal Pino                     | Azure ARC: Gli Animali Fantastici dell'hybrid cloud                                                  | [**Link**](https://github.com/dpcons/DPCons/blob/main/TechSessions/20240621-AzureDay-Roma.md) |           |
+| 16:30 | Rome Room 2 | Maurizio Morando e Riccardo Cozzi  | Demystifying the complexity of a Zone Redundant AKS deployment for achieving top class resiliency    | N/A |       |
+| 16:30 | Live Streaming | Nikos Delis                     | How to monitor and manage a farm of robots using Azure IoT & Digital Twins                           | N/A |       |
+| 17:15 | Rome Room 1 | Carlo Pio Luigi Ciciriello e Luca Passaretta                     | Implementing a Zero Trust model on AKS with the new Istio Service Mesh add-on for Microsoft Azure                                                         | [**Link**](session/room1_17_15/slides.pdf) |     |
+| 17:15 | Live Streaming | Chad Green                      | Unleashing Extreme Scalability with Azure Functions                                                  | [**Link**](session/room3_17_15/slides.pdf) |     |
